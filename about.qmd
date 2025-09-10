@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-This is Jessie's About page
+This is Jessie's About page. Details yet to come.

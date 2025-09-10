@@ -1,7 +1,7 @@
 ---
-title: "jessieLiang.github.io"
+title: "Jessie Liang's personal page"
 ---
 
-This is a Jessie's personal website.
+Hello! Welcome here! This is a Jessie's personal website. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
