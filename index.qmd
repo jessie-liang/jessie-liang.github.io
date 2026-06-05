@@ -10,9 +10,26 @@ Hi, I'm Jessie. Welcome to visit this page! This is my personal hub for analytic
 
 ## 📊 My Work
 
-- [Tableau Profile](https://public.tableau.com/app/profile/jessie.liang8524/vizzes)
-- [Power BI Dashboard: Global Layoff Insights](https://app.powerbi.com/view?r=eyJrIjoiMjNkZjk2NDMtMTMyNy00MjgyLWIzYTUtMDdjZTRmZGRlNTQ1IiwidCI6ImIwYzRmN2U1LTVjZTgtNGU2OC1iMWFiLWI4Y2I4YWRkYTZlYyJ9)
-- [Power BI Dashboard: Instagram Engagement Analytics](https://app.powerbi.com/view?r=eyJrIjoiMjIyMjE5ZDItYmY2NS00OTkyLTk1MDctY2E2NGNiZWFkMzlkIiwidCI6ImIwYzRmN2U1LTVjZTgtNGU2OC1iMWFiLWI4Y2I4YWRkYTZlYyJ9&pageName=b3d60054eca0c3a66600)
-- [Plotly/Dash Dashboard: Global Trade of Spice](https://jessieliang.pythonanywhere.com)
+::: {.grid}
+
+::: {.g-col-4}
+### Tableau (Data Stories, Dashboards, and more)
+
+👉 [My Tableau Profile](https://public.tableau.com/app/profile/jessie.liang8524/vizzes)
+:::
+
+::: {.g-col-4}
+### Power BI Dashboards
+
+👉 [Global Layoff Insights](https://app.powerbi.com/view?r=eyJrIjoiMjNkZjk2NDMtMTMyNy00MjgyLWIzYTUtMDdjZTRmZGRlNTQ1IiwidCI6ImIwYzRmN2U1LTVjZTgtNGU2OC1iMWFiLWI4Y2I4YWRkYTZlYyJ9)
+
+👉 [Power BI Dashboard: Instagram Engagement Analytics](https://app.powerbi.com/view?r=eyJrIjoiMjIyMjE5ZDItYmY2NS00OTkyLTk1MDctY2E2NGNiZWFkMzlkIiwidCI6ImIwYzRmN2U1LTVjZTgtNGU2OC1iMWFiLWI4Y2I4YWRkYTZlYyJ9&pageName=b3d60054eca0c3a66600)
+:::
+
+::: {.g-col-4}
+### Python Dashboard (Plotly + Dash)
+
+👉 [Global Trade of Spice](https://jessieliang.pythonanywhere.com)
+:::
 
 
