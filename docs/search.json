@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This is Jessie’s About page. Details yet to come."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jessie Liang’s personal page",
+    "title": "Jessie Liang’s Personal Portfolio",
     "section": "",
-    "text": "Hello! Welcome here! This is a Jessie’s personal website."
+    "text": "Hi, I’m Jessie. Welcome to visit this page! This is my personal hub for analytics projects and visual work. You can find my dashboards designed using Tableau, Power BI and Python (Plotly + Dash) below. Thank you again for your interest in me 😄"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Jessie Liang’s Personal Portfolio",
+    "section": "",
+    "text": "Hi, I’m Jessie. Welcome to visit this page! This is my personal hub for analytics projects and visual work. You can find my dashboards designed using Tableau, Power BI and Python (Plotly + Dash) below. Thank you again for your interest in me 😄"
+  },
+  {
+    "objectID": "index.html#my-work",
+    "href": "index.html#my-work",
+    "title": "Jessie Liang’s Personal Portfolio",
+    "section": "📊 My Work",
+    "text": "📊 My Work\n\n\nTableau (Data Stories, Dashboards, and more)\n👉 My Tableau Profile\n\n\nPower BI Dashboards\n👉 Global Layoff Insights\n👉 Power BI Dashboard: Instagram Engagement Analytics\n\n\nPython Dashboard (Plotly + Dash)\n👉 Global Trade of Spice"
   }
 ]
